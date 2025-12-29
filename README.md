@@ -68,12 +68,12 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOpswithDevik&layout=compact&theme=vue&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevOpswithDevik&show_icons=true&theme=vue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevOpswithDevik&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOpswithDevik&layout=compact&theme=vue&hide_border=true" />
 </p>
 
 ---
@@ -84,13 +84,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
   <img src="https://streak-stats.demolab.com?user=DevOpswithDevik&theme=vue&hide_border=true" />
 </p>
 
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=DevOpswithDevik&limit=5&theme=flat&combine_all_yearly_contributions=true" />
-</p>
 
 ---
 
