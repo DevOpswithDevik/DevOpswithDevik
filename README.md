@@ -68,13 +68,10 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevOpswithDevik&show_icons=true&theme=vue&hide_border=true" />
-</p>
+![DevOpswithDevik GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOpswithDevik&show_icons=true&theme=vue&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOpswithDevik&layout=compact&theme=vue&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOpswithDevik&layout=compact&theme=vue&hide_border=true)
+
 
 ---
 
